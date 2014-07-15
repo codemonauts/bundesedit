@@ -1,30 +1,30 @@
 {
   "ranges": {
-    "Bundestages": [
+    "des Bundestages": [
       ["193.17.232.0", "193.17.247.255"]
     ],
-    "Bundesregierung": [
+    "der Breg": [
       ["195.37.61.212", "195.37.61.215"]
     ],
-    "Gaestehauses der Bundesregierung": [
+    "des Gästehauses der BReg": [
       ["217.237.175.112", "217.237.175.119"]
     ],
-    "Bundesministeriums für Bildung, Wissenschaft, Forschung und Technologie": [
+    "des BMBF": [
       ["195.37.100.0", "195.37.101.255"]
     ],
-    "Bundesministeriums für Verteidigung": [
+    "des BMVg": [
       ["193.102.16.0", "193.102.16.255"]
     ],
-    "Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit": [
+    "des BMUB": [
       ["194.94.100.0", "194.94.103.255"],
       ["195.37.130.0", "195.37.131.255"]
     ],
-    "Bundesministeriums des Inneren": [
+    "des BMI": [
       ["31.12.32.0", "31.12.63.255"],
       ["81.160.0.0", "81.160.127.255"],
       ["217.89.43.88" ,"217.89.43.95"]
     ],
-    "Bundesministeriums für Finanzen": [
+    "des BMF": [
       ["62.153.205.224", "62.153.205.231"],
       ["77.74.237.0", "77.74.237.63"],
       ["194.25.141.216", "194.25.141.223"],
@@ -33,58 +33,58 @@
       ["217.110.186.216" ,"217.110.186.223"],
       ["217.244.6.32", "217.244.6.39"]
     ],
-    "Bundesministeriums für Verkehr und digitale Infrastruktur": [
+    "des BMVI": [
       ["194.8.220.208", "194.8.220.223"]
     ],
-    "Bundesministeriums für Arbeit und Soziales": [
+    "des BMAS": [
       ["62.96.129.16", "62.96.129.23"],
       ["87.79.38.128", "87.79.38.143"],
       ["213.61.119.240", "213.61.119.247"],
       ["213.168.127.72", "213.168.127.79"],
       ["217.110.79.16", "217.110.79.31"]
     ],
-    "Bundesministeriums für Wirtschaft und Energie": [
+    "des BMWi": [
       ["62.154.254.64", "62.154.254.71"],
       ["194.25.174.112", "194.25.174.119"],
       ["195.127.210.128", "195.127.210.159"]
     ],
-    "Bundesnetzagentur": [
+    "der BNetzA": [
       ["194.76.151.0", "194.76.151.255"],
       ["194.156.216.0", "194.156.223.255"]
     ],
-    "Umweltbundesamts": [
+    "des UBA": [
       ["193.174.168.0", "193.174.175.255"]
     ],
-    "Luftfahrtbundesamtes": [
+    "des LBA": [
       ["195.37.144.0", "195.37.144.255"]
     ],
-    "Statistisches Bundesamtes": [
+    "des StBA": [
       ["194.95.119.0", "194.95.119.255"]
     ],
-    "Kraftfahrt-Bundesamtes": [
+    "des KBA": [
       ["195.37.186.16", "195.37.186.31"],
       ["195.37.186.176", "195.37.186.191"]
     ],
-    "Paul Ehrlich Instituts": [
+    "des PEI": [
       ["194.76.227.0", "194.76.227.255"]
     ],
-    "Robert-Koch-Instituts": [
+    "des RKI": [
       ["193.175.81.0", "193.175.81.255"]
     ],
-    "Bundesdruckerei": [
+    "der Bundesdruckerei": [
       ["192.124.252.0", "192.124.252.255"]
     ],
-    "Physikalisch-Technische Bundesanstalt": [
+    "der PTB": [
       ["193.175.216.0", "193.175.216.255"],
       ["193.175.254.0", "193.175.254.255"],
       ["194.94.88.0", "194.94.95.255"],
       ["194.95.250.32", "194.95.250.47"]
     ],
-    "Bundesamtes für Kartographie und Geodaesie": [
+    "des BKG": [
       ["141.74.0.0", "141.74.255.255"],
       ["193.174.164.0", "193.174.166.255"]
     ],
-    "Bundesamtes für Strahlenschutz": [
+    "des BfS": [
       ["193.174.230.0", "193.174.230.255"],
       ["193.174.231.0", "193.174.231.255"],
       ["193.175.170.0", "193.175.170.255"],
@@ -93,51 +93,51 @@
       ["212.185.175.120", "212.185.175.127"],
       ["217.6.198.64", "217.6.198.127"]
     ],
-    "Bundesamtes für Verfassungsschutz": [
+    "des BfV": [
       ["217.5.178.16", "217.5.178.31"]
     ],
-    "Bundesamtes für Seeschifffahrt und Hydrographie": [
+    "des BSH": [
       ["141.17.0.0", "141.17.255.255"]
     ],
-    "Bundesamtes für Bauwesen und Raumordnung": [
+    "des BBR": [
       ["195.126.31.0", "195.126.31.255"]
     ],
-    "Bundesamtes für Verbraucherschutz u. Lebensmittelsicherheit": [
+    "des BVL": [
       ["195.37.181.192", "195.37.181.223"],
       ["195.37.184.96", "195.37.184.119"],
       ["195.37.231.8", "195.37.231.15"],
       ["213.71.10.120", "213.71.10.123"],
       ["213.71.142.160", "213.71.142.191"]
     ],
-    "Bundesamtes für Familie und zivilgesellschaftliche Aufgaben": [
+    "des BAFzA": [
       ["194.8.203.112", "194.8.203.127"],
       ["217.69.82.80", "217.69.82.95"]
     ],
-    "Bundesamtes für Naturschutz": [
+    "des BfN": [
       ["62.153.208.72", "62.153.208.79"],
       ["193.17.176.0", "193.17.177.255"],
       ["194.76.200.0", "194.76.201.255"],
       ["217.76.99.160", "217.76.99.223"],
       ["217.76.104.144", "217.76.104.151"]
     ],
-    "Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr": [
+    "des BAIUDBw": [
       ["194.31.194.0", "194.31.194.255"]
     ],
-    "Bundesamtes für Migration und Flüchtlinge": [
+    "des BAMF": [
       ["193.24.128.0", "193.24.191.255"]
     ],
-    "Bundesamtes für Wirtschaft und Ausfuhrkontrolle": [
+    "des BAFA": [
       ["83.236.157.240", "83.236.157.247"],
       ["212.202.252.156", "212.202.252.156"]
     ],
-    "Beschaffungsamtes des Bundesministerium des Inneren": [
+    "des BeschA": [
       ["80.146.186.80", "80.146.186.87"],
       ["195.243.81.0", "195.243.81.7"]
     ],
-    "Bundesfinanzakademie": [
+    "der BFA": [
       ["87.234.223.159", "87.234.223.159"]
     ],
-    "Bundesamtes für die Sicherheit in der IT": [
+    "des BSI": [
       ["62.50.36.72", "62.50.36.79"],
       ["62.50.43.184", "62.50.43.191"],
       ["62.50.45.48", "62.50.45.63"],
@@ -149,7 +149,7 @@
       ["195.227.15.176", "195.227.15.191"],
       ["195.227.63.0", "195.227.63.7"]
     ],
-    "Zentrums für Informationsverarbeitung und Informationstechnik": [
+    "des ZIVIT": [
       ["80.245.144.0", "80.245.159.255"],
       ["80.245.148.0", "80.245.151.255"]
     ]
