@@ -8,3 +8,6 @@ Das System basiert auf dem Projekt von [edsu/anon](https://github.com/edsu/anon)
 An dieser Stelle pflegen wir die Netzwerklisten. Die Listen leben von Informationen aus unterschiedlichen Quellen. Wir freuen uns über jeden, der etwas dazu beitragen kann. Entweder einfach hier ein Ticket oder einen Pull-Request einstellen, oder via Twitter bei uns melden.
 
 Die Daten sind aus unterschiedlichen Quellen gesammelt und erheben keinen Anspruch auf Vollständigkeit oder Richtigkeit!
+
+### Credits:
+* Netze der Bundeswehr und der Universitäten der Bundeswehr: der-flo
