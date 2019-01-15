@@ -1,13 +1,13 @@
 {
-  "Landesbetrieb IT.Niedersachen": [
+  "des Landesbetriebes IT.Niedersachen": [
     "80.228.51.0/27"
   ],
-  "Niedersaechsische Landesregierung": [
+  "der Niedersaechsischen Landesregierung": [
     "192.129.8.0/24",
     "195.37.192.0/20",
     "2001:638:607::/48"
   ],
-  "Staatsbetrieb Sächsische Informatik Dienste": [
+  "des Staatsbetriebs Sächsische Informatik Dienste": [
     "31.12.56.0/21"
   ]
 }

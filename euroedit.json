@@ -1,13 +1,13 @@
 {
-    "European Parliament": [
+    "the European Parliament": [
         "136.173.0.0/16",
         "212.190.68.32/27"
     ],
-    "European Council": [
+    "the European Council": [
         "91.194.202.0/23",
         "217.111.230.224/28"
     ],
-    "European Commission": [
+    "the European Commission": [
         "62.62.0.0/17"
     ]
 }
