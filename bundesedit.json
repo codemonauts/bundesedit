@@ -195,5 +195,8 @@
     ],
     "der Uni BW München": [
         "137.193.0.0/16"
-    ]
+    ],
+    "der Stiftung Haus der Geschichte": [
+        "62.157.202.32/27"
+    ]    
 }
