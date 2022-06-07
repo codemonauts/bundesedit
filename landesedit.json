@@ -12,5 +12,9 @@
   ],
   "der hessischen Landesverwaltung": [
     "141.90.0.0/16"
+  ],
+  "der römisch-katholischen Diözese Rottenburg-Stuttgart": [
+    "194.95.75.192/26",
+    "212.201.94.192/26"
   ]
 }
