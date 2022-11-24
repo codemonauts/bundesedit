@@ -1,26 +1,47 @@
-{
-  "des Bayerischen Landesamtes für Verfassungsschutz": [
-    "62.245.236.252/30"
-  ],
-  "des Landesamtes für Verfassungsschutz Baden-Württemberg": [
-    "178.210.119.128/28",
-  ],
-  "des Landesbetriebes IT.Niedersachsen": [
-    "80.228.51.0/27"
-  ],
-  "der Niedersaechsischen Landesregierung": [
-    "192.129.8.0/24",
-    "195.37.192.0/20",
-    "2001:638:607::/48"
-  ],
-  "des Staatsbetriebs Sächsische Informatik Dienste": [
-    "31.12.56.0/21"
-  ],
-  "der hessischen Landesverwaltung": [
-    "141.90.0.0/16"
-  ],
-  "der römisch-katholischen Diözese Rottenburg-Stuttgart": [
-    "194.95.75.192/26",
-    "212.201.94.192/26"
-  ]
-}
+[
+    {
+        "name": "des Bayerischen Landesamtes f\u00fcr Verfassungsschutz",
+        "ranges": [
+            "62.245.236.252/30"
+        ]
+    },
+    {
+        "name": "des Landesamtes f\u00fcr Verfassungsschutz Baden-W\u00fcrttemberg",
+        "ranges": [
+            "178.210.119.128/28"
+        ]
+    },
+    {
+        "name": "des Landesbetriebes IT.Niedersachsen",
+        "ranges": [
+            "80.228.51.0/27"
+        ]
+    },
+    {
+        "name": "der Niedersaechsischen Landesregierung",
+        "ranges": [
+            "192.129.8.0/24",
+            "195.37.192.0/20",
+            "2001:638:607::/48"
+        ]
+    },
+    {
+        "name": "des Staatsbetriebs S\u00e4chsische Informatik Dienste",
+        "ranges": [
+            "31.12.56.0/21"
+        ]
+    },
+    {
+        "name": "der hessischen Landesverwaltung",
+        "ranges": [
+            "141.90.0.0/16"
+        ]
+    },
+    {
+        "name": "der r\u00f6misch-katholischen Di\u00f6zese Rottenburg-Stuttgart",
+        "ranges": [
+            "194.95.75.192/26",
+            "212.201.94.192/26"
+        ]
+    }
+]
