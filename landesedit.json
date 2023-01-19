@@ -1,12 +1,12 @@
 [
     {
-        "name": "des Bayerischen Landesamtes f\u00fcr Verfassungsschutz",
+        "name": "des Bayerischen Landesamtes für Verfassungsschutz",
         "ranges": [
             "62.245.236.252/30"
         ]
     },
     {
-        "name": "des Landesamtes f\u00fcr Verfassungsschutz Baden-W\u00fcrttemberg",
+        "name": "des Landesamtes für Verfassungsschutz Baden-Württemberg",
         "ranges": [
             "178.210.119.128/28"
         ]
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "name": "des Staatsbetriebs S\u00e4chsische Informatik Dienste",
+        "name": "des Staatsbetriebs Sächsische Informatik Dienste",
         "ranges": [
             "31.12.56.0/21"
         ]
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "name": "der r\u00f6misch-katholischen Di\u00f6zese Rottenburg-Stuttgart",
+        "name": "der römisch-katholischen Diözese Rottenburg-Stuttgart",
         "ranges": [
             "194.95.75.192/26",
             "212.201.94.192/26"

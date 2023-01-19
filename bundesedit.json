@@ -20,7 +20,7 @@
         ]
     },
     {
-        "name": "des G\u00e4stehauses der BReg",
+        "name": "des Gästehauses der BReg",
         "ranges": [
             "217.237.175.112/29"
         ]
@@ -339,7 +339,7 @@
         ]
     },
     {
-        "name": "der Uni BW M\u00fcnchen",
+        "name": "der Uni BW München",
         "ranges": [
             "137.193.0.0/16"
         ]
