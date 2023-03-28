@@ -47,7 +47,10 @@
     {
         "name": "der Anstalt für Kommunale Datenverarbeitung in Bayern (AKDB)",
         "ranges": [
-            "193.28.242.0/24"
+            "193.28.243.0/24",
+            "193.28.242.0/24",
+            "193.28.241.0/24",
+            "193.28.240.0/24"
         ]
     }
 ]
