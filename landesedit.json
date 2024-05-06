@@ -52,5 +52,11 @@
             "193.28.241.0/24",
             "193.28.240.0/24"
         ]
+    },
+    {
+        "name": "des Kommunalen Gebietsrechenzentrums Hessen (ekom21)",
+        "ranges": [
+            "80.69.206.32/27"
+        ]
     }
 ]
